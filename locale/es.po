@@ -1,0 +1,16 @@
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "field:ir.attachment,content:"
+msgid "Content"
+msgstr "Contenido"
+
+msgctxt "field:ir.attachment,data_updated:"
+msgid "Data Updated"
+msgstr "Datos actualizados"
+
+msgctxt "field:ir.attachment,mimetype:"
+msgid "Mimetype"
+msgstr "Mimetype"
